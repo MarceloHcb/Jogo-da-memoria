@@ -48,7 +48,7 @@ let game = {
      techs: ["bootstrap",
         "css",
         "electron",
-        "fireBase",
+        "firebase",
         "html",
         "javascript",
         "jquery",
